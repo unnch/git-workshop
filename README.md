@@ -1,7 +1,6 @@
 
 This is README.md
-<<<<<<< HEAD
-
+<<<<<<< HEAD  test update
 In testing project
 
 

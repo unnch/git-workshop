@@ -1,6 +1,11 @@
 
 This is README.md
+<<<<<<< HEAD
 <<<<<<< HEAD  test update
+=======
+<<<<<<< HEAD 123442342343242432
+
+>>>>>>> 98a5e9a0f6ec5b44934cf1987524e9379299eba5
 In testing project
 
 
